@@ -1,3 +1,12 @@
+# |=============================================|
+# |           M4TH3US M414 4LV4R3Z              | 
+# |=============================================|
+# | PROPOSTA : Interface gráfica                |
+# | FEITO POR: MATHEUS MAIA ALVAREZ             |
+# | GITHUB: https://github.com/MatheusAlvarez   |
+# | CONTATO: mthalvarez0000@hotmail.com         |
+# |=============================================|
+
 import PySimpleGUI as sg
 
 def janela_login():
