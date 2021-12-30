@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Interface gráfica desenvolvida em Python utilizando a biblioteca PySimpleGUI
+Projeto de interface gráfica desenvolvida em Python utilizando a biblioteca PySimpleGUI
 
 ## Layout
 ![Inter 1](https://github.com/MatheusAlvarez/Interface_Python2/blob/main/_assets/Inter1.PNG)
